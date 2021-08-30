@@ -48,8 +48,7 @@ I will use https://github.com/msaricaumbc/DS601_Fall21 as our course webpage. Yo
 
 We will not be following one single textbook in this course. Weekly reading materials and relevant course materials will be shared beforehand via Blackboard and/or course’s Github repository. In addition to these, I will be following the logical structures of the following textbooks.
 
-- Python Data Science Handbook: We will follow this book when we want to learn pro-
-gramming with Python part of the course. Especially sections related to Pandas library is pretty well written. 
+- Python Data Science Handbook: We will follow this book when we want to learn programming with Python part of the course. Especially sections related to Pandas library is pretty well written. 
 [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
 
