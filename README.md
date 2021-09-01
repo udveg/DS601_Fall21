@@ -77,8 +77,8 @@ Homework assignment will be mostly due Sunday. For homework due dates please che
 | Course work                | Grade Distribution |
 | -------------------------- | ------------------ |
 | Attendance & Participation | 10%                |
-| Homework                   | 30%                |
-| Midterm Project             | 30%                |
+| Homework                   | 40%                |
+| Midterm Project             | 20%                |
 | Final Project              | 30%                |
 
 </div>
